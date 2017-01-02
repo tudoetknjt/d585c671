@@ -2,7 +2,7 @@
 
 Raw experimental results of the rotation experiments.
 
-[![DOI](https://zenodo.org/badge/20743/tudoetknjt/c20cb397.svg)](https://zenodo.org/badge/latestdoi/20743/tudoetknjt/c20cb397)
+[![DOI](https://zenodo.org/badge/77795218.svg)](https://zenodo.org/badge/latestdoi/77795218)
 
 ## Signal Parameters
 
